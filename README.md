@@ -25,8 +25,6 @@
       alt="Gmail" width="70" height="70"/>
   </a>
 </p>
-
-
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
