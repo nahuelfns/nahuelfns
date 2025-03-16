@@ -3,6 +3,11 @@
 <h3 align="center">Data Scientist🕵️‍♂️ | Data engineer🧑‍🔧.</h3>
 <br>
 
+<div>
+  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+</div>
+
+
 - 🔭 I’m currently working on looking for a job... as it's said "looking for a job is a job"
 - 🌱 I’m still learning and improving my skills in data science
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
