@@ -9,7 +9,7 @@
 
 
 - 🔭 I’m currently working on looking for a job... as it's said "looking for a job is a job"
-- 🌱 I’m still learning and improving my skills in data science
+- 🌱 I’m still learning and improving my skills in data science 'cause it's a never ending travel
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
 - 👯 I'm looking to get in touch with professionals or companies that need collaboration on challenging projects. 
 - 💬 Ask me about data processing and API integrations, implementing ETL processes with Python and AWS Lambda, troubleshooting AWS or MySQL issues or leveraging Python libraries like pandas, numpy or boto3.
