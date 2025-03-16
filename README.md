@@ -14,7 +14,7 @@
 - 👯 I'm looking to get in touch with professionals or companies that need collaboration on challenging projects. 
 - 💬 Ask me about data processing and API integrations, implementing ETL processes with Python and AWS Lambda, troubleshooting AWS or MySQL issues or leveraging Python libraries like pandas, numpy or boto3.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: family, friends & crossfit... what else?
+- ⚡ Hobbies: family, friends & crossfit... what else?
 
   
 <h3 align="left">Connect with me:</h3>
