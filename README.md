@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/facundo-nahuel-serqueira/" target="_blank" style="display: inline-block;">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn" height="30" width="40"/><a href="mailto:facundo.serqueira@gmail.com" target="_blank" style="display: inline-block;"><img align="center"
+      alt="LinkedIn" height="30" width="40"/><a href="mailto:nahuelfns@gmail.com" target="_blank" style="display: inline-block;"><img align="center"
       src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg"
       alt="Gmail" width="70" height="70"/>
   </a>
