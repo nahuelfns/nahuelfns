@@ -6,11 +6,13 @@
 
 
 - 🔭 I’m currently working on looking for a job... as it's said "looking for a job is a job"
-- 🌱 I’m still learning and improving my skills in data science 
+- 🌱 I’m still learning and improving my skills in data science
+- :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
 - 👯 I'm looking to get in touch with professionals or companies that need collaboration on challenging projects. 
 - 💬 Ask me about data processing and API integrations, implementing ETL processes with Python and AWS Lambda, troubleshooting AWS or MySQL issues or leveraging Python libraries like pandas, numpy or boto3.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: family, friends & crossfit... what else?
+- 📫 How to reach me: nahuelfns@gmail.com
 
   
 <h3 align="left">Connect with me:</h3>
@@ -18,8 +20,6 @@
   <a href="https://www.linkedin.com/in/facundo-nahuel-serqueira/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="facundo nahuel serqueira" height="30" width="40" /></a>
-  
-[![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "nahuelfns@gmail.com")](nahuelfns@gmail.com)
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
@@ -39,7 +39,7 @@
 <br>
 
 
-- 📫 How to reach me: nahuelfns@gmail.com
+
 
 
 
