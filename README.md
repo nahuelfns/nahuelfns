@@ -1,5 +1,6 @@
 <h1 align="center"><b>Hi , I'm Facundo Nahuel Serqueira </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
+
 <br>
 <h3 align="center">Data Scientist🕵️‍♂️ | Data engineer🧑‍🔧.</h3>
 
@@ -18,9 +19,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="facundo nahuel serqueira" height="30" width="40" /></a>
   
-[![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@nahuelfns@gmail.com")](nahuelfns@gmail.com)
-
-
+[![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "nahuelfns@gmail.com")](nahuelfns@gmail.com)
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
