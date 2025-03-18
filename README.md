@@ -6,6 +6,7 @@
 <div>
   <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 </div>
+
 - 🧑‍💻 Data science has the power to improve lives and transform businesses. My passion is to create products and solutions that make a difference, solving complex problems with creativity and efficiency
 - 🔭 My knowledge allows me to excel in ETL and EDA using Python and MySQL, as well as possessing solid knowledge in Machine Learning
 - 🌱 I’m still learning and improving my skills in data science 'cause it's a never ending travel
