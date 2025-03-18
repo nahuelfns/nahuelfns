@@ -8,7 +8,7 @@
 </div>
 
 
-- 🔭 I’m currently working on looking for a job... as it's said "looking for a job is a job"
+- 🔭 I’m currently working on looking for a job as Data Scientist... as it's said "looking for a job is a job"
 - 🌱 I’m still learning and improving my skills in data science 'cause it's a never ending travel
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
 - 👯 I'm looking to get in touch with professionals or companies that need collaboration on challenging projects. 
